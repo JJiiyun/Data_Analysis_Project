@@ -62,6 +62,7 @@
 - **농업 변수는 통계적으로 유의하지 않아 최종 모델에서 제외**
 - **PCA 기반 산업지수 모델로 다중공선성 해소 및 해석력 향상**
 - **포항시 미래 순이동수 예측 가능**
+<img width="756" alt="Image" src="https://github.com/user-attachments/assets/b0e52de7-df4a-4edf-bc26-062f3b51ba5c" />
 
 </br>
 
